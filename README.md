@@ -1,5 +1,4 @@
-# SI-Tema1
-Tema laborator - Tema 1- 25 puncte
+# SI-
 Implementati o infrastructura de comunicatie ce foloseste criptosistemul AES pentru
 criptarea traficului intre doua noduri A si B cu urmatoarele caracteristici:
 1. Se considera un nod KM (key manager) care detine doua chei pe 128 de biţi K si
